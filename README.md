@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I'am Gabriel Castro 👋
 
-<!--
-**DevBielCastro/DevBielCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 Sou estudante de ADS pela Estacio
+- 🌱 Estudante de C
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href-"https://github.com/DevBielCastro">
+  <Img height-"180em" src"https://github-stats.vercel.app/api?username=DevBielCastro&show_icons=truel&theme=dracula&include_all_comits=true$count_private=true"/>
+  <Img height-"180em" src"https://github-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=comapct&langs_count=16&theme=dracula"/>
+</div>
+  
