@@ -1,4 +1,4 @@
-### Hi, I'am Gabriel Castro 👋
+### Olá, Eu sou Gabriel Castro 👋
 
 - 👨‍🎓 Sou estudante de ADS pela Estacio
 - 🌱 Estudante de C
