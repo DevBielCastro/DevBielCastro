@@ -1,7 +1,7 @@
 ### Olá, Eu sou Gabriel Castro 👋
 
 - 👨‍🎓 Sou estudante de ADS pela Estacio
-- 🌱 Estudante de C
+- 🌱 Estudante de Analise e desenvolvimento de sistemas
 - 😄 Pronouns: ele/dele
 
 <div align="left">
