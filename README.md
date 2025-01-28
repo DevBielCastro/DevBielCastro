@@ -1,6 +1,6 @@
 ### Olá, Eu sou Gabriel Castro 👋
 
-- 👨‍🎓 Sou estudante de ADS pela Estacio
+- 👨‍🎓 Sou estudante de ADS pela UNIPÊ - Centro Universitário - Campus João Pessoa 
 - 🌱 Estudando C atualmente
 - 😄 Pronouns: ele/dele
 
