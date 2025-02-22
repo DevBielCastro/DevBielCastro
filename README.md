@@ -6,10 +6,10 @@
 <!-- Seção de estatísticas do GitHub -->
 <div align="left">
   <a href="https://github.com/DevBielCastro">
-   <!-- Estatísticas gerais do GitHub -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&count_private=true&theme=dracula"/>
+  <!-- Estatísticas gerais do GitHub -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=dracula&count_private=true&v=1"/>
 <!-- Estatísticas das linguagens mais usadas -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&langs_count=7&theme=dracula&v=1"/>
   </a>
 </div>
     
