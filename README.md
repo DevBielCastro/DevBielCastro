@@ -1,7 +1,16 @@
 ### Olá, Eu sou Gabriel Castro 👋
 
 <!-- Apresentação inicial -->
-- 👨‍🎓 Sou estudante de ADS pela UNIPÊ - Centro Universitário - Campus João Pessoa 
+- 👨‍🎓 Sou estudante de ADS pela UNIPÊ - Centro Universitário - Campus João Pessoa
+
+- ### 🚀 Projetos em Destaque
+
+- **[Projeto_Django_Busca_CEP](https://github.com/DevBielCastro/Projeto_Django_Busca_CEP)** - Neste projeto fiz um Crud para puxar o cep desejado para buscar.
+- **[WORKSHOP-FABRICA](https://github.com/DevBielCastro/WORKSHOP-FABRICA)** - Neste projeto foi proposto um desafio individual onde cada um deveria criar algo que armazene dados e eu decide criar um cadastro de estudantes onde ficariam armazenados os dados de cada um e que poderiam ser puxados novamento caso deseje.
+
+### 🌱 Atualmente Aprendendo
+
+- [Python] - Decide praticar mais de Python esses dias pois pretendo me introduzir no mercado de IA.
 
 <!-- Seção de estatísticas do GitHub -->
 <div align="left">
@@ -23,7 +32,9 @@
   <img align="center" alt="DevBiel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </p>
   
-## 
+##
+
+### 📫 Como Entrar em Contato
 
 <!-- Seção de redes sociais e contato -->
 <div> 
