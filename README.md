@@ -10,7 +10,7 @@
 
 ### 🌱 Atualmente Aprendendo
 
-- [Python] - Decide praticar mais de Python esses dias pois pretendo me introduzir no mercado de IA.
+- <img alt="DevBiel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Decide praticar mais de Python esses dias pois pretendo me introduzir no mercado de IA.
 
 <!-- Seção de estatísticas do GitHub -->
 <div align="left">
