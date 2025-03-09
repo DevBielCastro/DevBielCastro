@@ -5,7 +5,7 @@
 
 - ### 🚀 Projetos em Destaque
 
-- **[Projeto_Django_Busca_CEP](https://github.com/DevBielCastro/Projeto_Django_Busca_CEP)** - Neste projeto fiz um Crud para puxar o cep desejado para buscar.
+- **[PROJETO_DE_CADASTRO_DE_USUARIOS](https://github.com/DevBielCastro/estudandodjango)** - Neste projeto fiz um Crud para puxar o cep desejado para buscar.
 - **[PROJETO_DE INGREÇÃO_FABRICA](https://github.com/DevBielCastro/wsBackend-Fabrica25.1)** - Neste projeto foi proposto um desafio individual onde cada um deveria criar um sistema de catálogo de filmes com CRUD, integração à API OMDB e Docker
 
 ### 🌱 Atualmente Aprendendo
