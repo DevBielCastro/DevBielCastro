@@ -13,7 +13,7 @@ Desenvolvedor Fullstack em formação, apaixonado por criar soluções tecnológ
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center"> <a href="https://github.com/DevBielCastro">
+<div> <a href="https://github.com/DevBielCastro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&theme=dracula&langs_count=8"/>
   </a>
@@ -32,11 +32,26 @@ Aqui estão os sites que desenvolvi e que demonstram minhas habilidades:
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="center"> <p>Estas são algumas das tecnologias e ferramentas com as quais tenho trabalhado:</p>
+<p align="center"><strong>Back-End:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,react,javascript,typescript,html,css,tailwind,mysql,mongodb,docker,git,github,aws&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,django,nodejs,express&perline=4&theme=dark" />
+  </a>
+</p>
+<p align="center"><strong>Front-End:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,tailwind&perline=3&theme=dark" />
     </a>
-</div>
+</p>
+<p align="center"><strong>Bancos de Dados:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2&theme=dark" />
+  </a>
+</p>
+<p align="center"><strong>DevOps & Outras Ferramentas:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,aws&perline=4&theme=dark" />
+  </a>
+</p>
 
 ---
 
@@ -53,7 +68,8 @@ Estou sempre buscando expandir meus conhecimentos. No momento, meus focos de est
 
 ### 📫 Como Entrar em Contato
 
-<div align="center"> <a href="https://www.linkedin.com/in/gabriel-castro-9a9745209/" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-castro-9a9745209/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:gabriel.castrogt10@gmail.com" target="_blank">
