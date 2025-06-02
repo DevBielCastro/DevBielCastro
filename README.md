@@ -15,7 +15,7 @@ Desenvolvedor Fullstack em formação, apaixonado por criar soluções tecnológ
 
 <div>
   <a href="https://github.com/DevBielCastro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=dracula&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&theme=dracula&langs_count=8"/>
   </a>
 </div>
