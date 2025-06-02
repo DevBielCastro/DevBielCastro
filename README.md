@@ -13,7 +13,8 @@ Desenvolvedor Fullstack em formação, apaixonado por criar soluções tecnológ
 
 ### 📊 Estatísticas do GitHub
 
-<div> <a href="https://github.com/DevBielCastro">
+<div>
+  <a href="https://github.com/DevBielCastro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&theme=dracula&langs_count=8"/>
   </a>
@@ -40,7 +41,7 @@ Aqui estão os sites que desenvolvi e que demonstram minhas habilidades:
 <p align="center"><strong>Front-End:</strong><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,tailwind&perline=3&theme=dark" />
-    </a>
+  </a>
 </p>
 <p align="center"><strong>Bancos de Dados:</strong><br>
   <a href="https://skillicons.dev">
