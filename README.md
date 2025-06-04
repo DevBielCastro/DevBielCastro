@@ -28,18 +28,6 @@
     />
   </a>
 </div>
-    <!-- Linguagens mais utilizadas -->
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&amp;layout=compact&amp;theme=dracula&amp;langs_count=8&amp;cache_seconds=1800&amp;token=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" 
-      alt="Linguagens mais usadas por Gabriel Castro" 
-    />
-  </a>
-</div>
-
-> **Observação de Segurança:**  
-> Incluir o token (GH_TOKEN) diretamente no README expõe-o publicamente e pode gerar riscos de segurança.  
-> Caso queira evitar isso, recomendo configurar o _GitHub Readme Stats_ em um projeto privado ou utilizar ações do GitHub para injetar essa variável sem expô-la no arquivo Markdown.
 
 ---
 
@@ -65,7 +53,7 @@
    - 🔹 Autenticação por JWT, persistência e consultas no PostgreSQL.  
    - 🔹 Frontend responsivo (Next.js + Tailwind) com área administrativa para gestão de artigos.
 
-3. **[SupletivoJP](https://github.com/DevBielCastro/SupletivoJP)** _(se disponível)_  
+3. **[SupletivoJP](https://github.com/DevBielCastro/SupletivoJP)**  
    Site institucional para um curso supletivo, desenvolvido com foco em acessibilidade e responsividade.  
    - 🔹 Layout limpo e fácil navegação.  
    - 🔹 Componentização em React e otimização para SEO.  
@@ -133,4 +121,4 @@
 ---
 
 > Obrigado pela visita ao meu perfil!  
-> Se quiser acompanhar minhas atualizações de código e projetos em tempo real, deixe uma ⭐ no meu repositório ou me siga no GitHub.  
+> Se quiser acompanhar minhas atualizações de código e projetos em tempo real, deixe uma ⭐ no meu repositório ou me siga no GitHub.
