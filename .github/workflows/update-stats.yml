@@ -1,26 +1,26 @@
 name: Update GitHub Stats
-
 on:
   schedule:
-    - cron: '0 0 * * *'  # Executa diariamente à meia-noite
-  workflow_dispatch:  # Permite execução manual
+    - cron: '0 0 * * *' # Atualiza diariamente
+  workflow_dispatch: # Permite execução manual
 
 jobs:
-  update-stats:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@latest
+      - name: Generate Stats
+        uses: jstrieb/github-stats@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
+          username: "DevBielCastro"
 
-      - name: Commit and push changes
+      - name: Commit Changes
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
           git add .
-          git commit -m "Update GitHub Stats"
+          git commit -m "Update GitHub stats" || echo "Sem alterações"
           git push
