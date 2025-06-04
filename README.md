@@ -16,18 +16,24 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/DevBielCastro">
+    <!-- Total de commits, issues e repositórios públicos/privados -->
     <img 
       height="180em" 
-      src="https://raw.githubusercontent.com/DevBielCastro/DevBielCastro/master/generated/overview.svg" 
-      alt="Estatísticas do GitHub" 
+      src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;cache_seconds=1800&amp;" 
+      alt="Estatísticas do GitHub de Gabriel Castro" 
     />
+    <!-- Linguagens mais utilizadas -->
     <img 
       height="180em" 
-      src="https://raw.githubusercontent.com/DevBielCastro/DevBielCastro/master/generated/languages.svg" 
-      alt="Linguagens mais usadas" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&amp;layout=compact&amp;theme=dracula&amp;langs_count=8&amp;cache_seconds=1800&amp;token=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" 
+      alt="Linguagens mais usadas por Gabriel Castro" 
     />
   </a>
 </div>
+
+> **Observação de Segurança:**  
+> Incluir o token (GH_TOKEN) diretamente no README expõe-o publicamente e pode gerar riscos de segurança.  
+> Caso queira evitar isso, recomendo configurar o _GitHub Readme Stats_ em um projeto privado ou utilizar ações do GitHub para injetar essa variável sem expô-la no arquivo Markdown.
 
 ---
 
@@ -53,7 +59,7 @@
    - 🔹 Autenticação por JWT, persistência e consultas no PostgreSQL.  
    - 🔹 Frontend responsivo (Next.js + Tailwind) com área administrativa para gestão de artigos.
 
-3. **[SupletivoJP](https://github.com/DevBielCastro/SupletivoJP)**  
+3. **[SupletivoJP](https://github.com/DevBielCastro/SupletivoJP)** _(se disponível)_  
    Site institucional para um curso supletivo, desenvolvido com foco em acessibilidade e responsividade.  
    - 🔹 Layout limpo e fácil navegação.  
    - 🔹 Componentização em React e otimização para SEO.  
@@ -121,4 +127,4 @@
 ---
 
 > Obrigado pela visita ao meu perfil!  
-> Se quiser acompanhar minhas atualizações de código e projetos em tempo real, deixe uma ⭐ no meu repositório ou me siga no GitHub.
+> Se quiser acompanhar minhas atualizações de código e projetos em tempo real, deixe uma ⭐ no meu repositório ou me siga no GitHub.  
