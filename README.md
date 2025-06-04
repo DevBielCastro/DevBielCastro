@@ -16,12 +16,18 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/DevBielCastro">
-    <!-- Total de commits, issues e repositórios públicos/privados -->
     <img 
       height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;cache_seconds=1800&amp;token=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" 
-      alt="Estatísticas do GitHub de Gabriel Castro" 
+      src="https://raw.githubusercontent.com/DevBielCastro/DevBielCastro/master/generated/overview.svg" 
+      alt="Estatísticas do GitHub" 
     />
+    <img 
+      height="180em" 
+      src="https://raw.githubusercontent.com/DevBielCastro/DevBielCastro/master/generated/languages.svg" 
+      alt="Linguagens mais usadas" 
+    />
+  </a>
+</div>
     <!-- Linguagens mais utilizadas -->
     <img 
       height="180em" 
