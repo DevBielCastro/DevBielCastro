@@ -16,7 +16,7 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/DevBielCastro">
-    <!-- Total de commits, issues e repositórios públicos privados -->
+    <!-- Total de commits, issues e repositórios públicos/privados -->
     <img 
       height="180em" 
       src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;cache_seconds=1800&amp;token=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" 
@@ -39,24 +39,31 @@
 
 ## 🚀 Projetos em Destaque
 
-1. **[Gabriel Mário ADV](https://github.com/DevBielCastro/gabriel-mario-adv)**  
+1. **[Sistema Restaurante](https://github.com/DevBielCastro/Sistema_Restaurante)**  
+   Projeto em andamento: sistema completo para gerenciamento de restaurantes (cardápio, categorias, produtos, pedidos e autenticação).  
+   **Stack:**  
+   - **Backend:** Node.js, Express, PostgreSQL, JWT  
+   - **Frontend:** Next.js, Tailwind CSS, TypeScript  
+   - **DevOps:** Docker (containers para API e banco), ambiente local e produção  
+   - **Destaques:**  
+     - API REST organizada em rotas, controllers e services  
+     - Middleware de autenticação JWT para proteger rotas sensíveis  
+     - Painel administrativo para cadastro/edição/exclusão de categorias e produtos  
+     - Integração completa entre frontend e backend para CRUD de restaurantes  
+     - Design responsivo e tema escuro com Tailwind CSS  
+
+2. **[Gabriel Mário ADV](https://github.com/DevBielCastro/gabriel-mario-adv)**  
    Site institucional completo com painel administrativo, focado em apresentar serviços de advocacia.  
    **Stack:** Node.js, Express, PostgreSQL, TailwindCSS, JWT.  
    - 🔹 Backend robusto com rotas, controllers e serviços organizados.  
    - 🔹 Autenticação por JWT, persistência e consultas no PostgreSQL.  
    - 🔹 Frontend responsivo (Next.js + Tailwind) com área administrativa para gestão de artigos.
 
-2. **[SupletivoJP](https://github.com/DevBielCastro/SupletivoJP)** _(se disponível)_  
+3. **[SupletivoJP](https://github.com/DevBielCastro/SupletivoJP)** _(se disponível)_  
    Site institucional para um curso supletivo, desenvolvido com foco em acessibilidade e responsividade.  
    - 🔹 Layout limpo e fácil navegação.  
    - 🔹 Componentização em React e otimização para SEO.  
    - 🔹 Sistema de formulário de contato integrado.
-
-3. **Buscador de CEP (Django)**  
-   Um microserviço Django que permite pesquisa de CEP em tempo real, consumindo APIs públicas de localização.  
-   - 🔹 Integração com terceiros para obter dados de endereço.  
-   - 🔹 API REST documentada e testes automatizados com PyTest.  
-   - 🔹 Dockerfile otimizado para deploy em produção.
 
 > 🔗 **Todos os repositórios:** [DevBielCastro no GitHub](https://github.com/DevBielCastro)
 
