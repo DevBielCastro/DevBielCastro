@@ -31,10 +31,6 @@
   </a>
 </div>
 
-> **Observação de Segurança:**  
-> Incluir o token (GH_TOKEN) diretamente no README expõe-o publicamente e pode gerar riscos de segurança.  
-> Caso queira evitar isso, recomendo configurar o _GitHub Readme Stats_ em um projeto privado ou utilizar ações do GitHub para injetar essa variável sem expô-la no arquivo Markdown.
-
 ---
 
 ## 🚀 Projetos em Destaque
