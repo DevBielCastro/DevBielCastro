@@ -55,7 +55,7 @@
    - 🔹 Autenticação por JWT, persistência e consultas no PostgreSQL.  
    - 🔹 Frontend responsivo (Next.js + Tailwind) com área administrativa para gestão de artigos.
 
-3. **[SupletivoJP](https://github.com/DevBielCastro/SupletivoJP)** _(se disponível)_  
+3. **[SupletivoJP](https://github.com/DevBielCastro/SupletivoJP)**  
    Site institucional para um curso supletivo, desenvolvido com foco em acessibilidade e responsividade.  
    - 🔹 Layout limpo e fácil navegação.  
    - 🔹 Componentização em React e otimização para SEO.  
