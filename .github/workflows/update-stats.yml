@@ -1,26 +1,41 @@
 name: Update GitHub Stats
 on:
   schedule:
-    - cron: '0 0 * * *' # Atualiza diariamente
-  workflow_dispatch: # Permite execução manual
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update-readme:
+  generate-stats:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Stats
-        uses: jstrieb/github-stats@master
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          token: ${{ secrets.GH_TOKEN }}
-          username: "DevBielCastro"
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          git clone https://github.com/jstrieb/github-stats.git stats-temp
+          cd stats-temp
+          npm ci
+
+      - name: Generate Stats Images
+        run: |
+          cd stats-temp
+          ACCESS_TOKEN=${{ secrets.ACCESS_TOKEN }} node generate_images.js
+          # Copia as imagens geradas pro seu repositório
+          cp -R generated/* ../generated/
 
       - name: Commit Changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add .
-          git commit -m "Update GitHub stats" || echo "Sem alterações"
+          git add generated
+          git commit -m "Update GitHub stats" || echo "Nothing to commit"
           git push
