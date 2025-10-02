@@ -1,126 +1,74 @@
-# Gabriel Castro 👋
+Gabriel Castro 👋
 
-**Desenvolvedor Fullstack em formação, apaixonado por criar soluções tecnológicas e em constante aprendizado. Atualmente, estou focando em aprimorar minhas habilidades em Python (Django), Node.js, React e Docker.**
+Desenvolvedor Full-Stack em formação • Estudante de ADS • Foco em Back-end / DevOps / Front-end
 
----
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) — atualmente no P2 — com experiência prática em projetos Full-Stack. Busco meu primeiro estágio em desenvolvimento até dezembro (remoto/híbrido/presencial — João Pessoa/PB). Gosto de construir APIs limpas, automatizar deploys e entregar interfaces funcionais e responsivas.
 
-## 🚀 Sobre Mim
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no UNIPÊ – Centro Universitário de João Pessoa.
-- 💡 Focado em desenvolvimento Fullstack, com experiência em Python (Django) e Node.js (Express).
-- ⚛️ Aprofundando conhecimentos em React (hooks, Redux, componentização) e TypeScript através de um curso Fullstack completo.
-- 🔧 Experiência prática com desenvolvimento de APIs REST, Docker, bancos de dados SQL (PostgreSQL, MySQL) e NoSQL (MongoDB), Git/GitHub e metodologias ágeis (Scrum/Kanban).
-- 🌱 Atualmente explorando arquitetura de microsserviços e computação em nuvem com AWS (EC2, S3).
+🚀 Objetivo
 
----
+Conquistar um estágio na área de desenvolvimento (Back-end / Full-Stack / DevOps iniciante) onde eu possa aplicar e expandir conhecimentos em Python (Django), Node.js, Docker e práticas de CI/CD, contribuindo com código bem organizado e foco em resultados.
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/DevBielCastro">
-    <!-- Total de commits, issues e repositórios públicos/privados -->
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;cache_seconds=1800&amp;" 
-      alt="Estatísticas do GitHub de Gabriel Castro" 
-    />
-    <!-- Linguagens mais utilizadas -->
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&amp;layout=compact&amp;theme=dracula&amp;langs_count=8&amp;cache_seconds=1800&amp;token=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" 
-      alt="Linguagens mais usadas por Gabriel Castro" 
-    />
-  </a>
-</div>
+💡 Resumo técnico
 
----
+Back-end: Python (Django), Node.js (Express), REST APIs, autenticação JWT, PostgreSQL, MongoDB.
 
-## 🚀 Projetos em Destaque
+Front-end: React, Next.js, TypeScript, HTML5, CSS3, Tailwind CSS.
 
-1. **[Sistema Restaurante](https://github.com/DevBielCastro/Sistema_Restaurante)**  
-   Projeto em andamento: sistema completo para gerenciamento de restaurantes (cardápio, categorias, produtos, pedidos e autenticação).  
-   **Stack:**  
-   - **Backend:** Node.js, Express, PostgreSQL, JWT  
-   - **Frontend:** Next.js, Tailwind CSS, TypeScript  
-   - **DevOps:** Docker (containers para API e banco), ambiente local e produção  
-   - **Destaques:**  
-     - API REST organizada em rotas, controllers e services  
-     - Middleware de autenticação JWT para proteger rotas sensíveis  
-     - Painel administrativo para cadastro/edição/exclusão de categorias e produtos  
-     - Integração completa entre frontend e backend para CRUD de restaurantes  
-     - Design responsivo e tema escuro com Tailwind CSS  
+DevOps / Infra: Docker, GitHub Actions / CI, deploys básicos em Cloud Run / GCP, Docker Compose.
 
-2. **[Gabriel Mário ADV](https://github.com/DevBielCastro/gabriel-mario-adv)**  
-   Site institucional completo com painel administrativo, focado em apresentar serviços de advocacia.  
-   **Stack:** Node.js, Express, PostgreSQL, TailwindCSS, JWT.  
-   - 🔹 Backend robusto com rotas, controllers e serviços organizados.  
-   - 🔹 Autenticação por JWT, persistência e consultas no PostgreSQL.  
-   - 🔹 Frontend responsivo (Next.js + Tailwind) com área administrativa para gestão de artigos.
+Boas práticas: Código limpo, organização por controllers/services, documentação mínima, testes iniciais.
 
-3. **[SupletivoJP](https://github.com/DevBielCastro/SupletivoJP)**  
-   Site institucional para um curso supletivo, desenvolvido com foco em acessibilidade e responsividade.  
-   - 🔹 Layout limpo e fácil navegação.  
-   - 🔹 Componentização em React e otimização para SEO.  
-   - 🔹 Sistema de formulário de contato integrado.
+🔧 Tecnologias & Ferramentas
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgres,mongodb,react,ts,html,css,tailwind,docker,git,github,linux&perline=8&theme=dark" alt="Tech icons" /> </p>
+📁 Projetos em destaque
+Sistema Restaurante — Repositório
 
-> 🔗 **Todos os repositórios:** [DevBielCastro no GitHub](https://github.com/DevBielCastro)
+Sistema completo para gestão de restaurantes: cardápio, categorias, produtos, pedidos e autenticação.
+Stack: Node.js, Express, PostgreSQL, Next.js, Tailwind, TypeScript, Docker.
+Destaques: API organizada em camadas (routes/controllers/services), painel administrativo e integração front↔back.
 
----
+Gabriel Mário ADV — Repositório
 
-## 🛠️ Tecnologias e Ferramentas
+Site institucional com painel administrativo para escritório de advocacia.
+Stack: Node.js, Express, PostgreSQL, Tailwind, JWT.
+Destaques: Gestão de artigos, autenticação, deploy e estrutura de backend modular.
 
-<p align="center"><strong>Back-End:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgres&perline=5&theme=dark" alt="Ícones de Python, Django, Node.js, Express, PostgreSQL" />
-  </a>
-</p>
+Buscador de CEP (Django) — Repositório
 
-<p align="center"><strong>Front-End:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,tailwind&perline=6&theme=dark" alt="Ícones de React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS" />
-  </a>
-</p>
+Pequena aplicação para busca de endereços via API externa.
+Stack: Django, Docker.
+Destaques: Integração com API externa, tratamento de erros e ambiente containerizado.
 
-<p align="center"><strong>DevOps & Outras Ferramentas:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux&perline=5&theme=dark" alt="Ícones de Docker, Git, GitHub, AWS, Linux" />
-  </a>
-</p>
+Ver todos os repositórios: https://github.com/DevBielCastro
 
----
+📊 Estatísticas (atual)
+<div align="center"> <img height="140" src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub stats" /> <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" alt="Top languages" /> </div>
+🌱 Atualmente estudando
 
-## 🌱 Atualmente Aprendendo
+React avançado (componentização, performance, hooks personalizados).
 
-- Aprofundamento em **React** (componentização avançada, otimização de performance, hooks personalizados) e **TypeScript** (tipagem estrita, generics).  
-- Arquitetura de **Microsserviços** (event-driven, gRPC/GraphQL, patterns de escalabilidade).  
-- Computação em nuvem com **AWS** (EC2, S3, RDS, ECS) e ferramentas de automação.  
-- **Test Driven Development (TDD)** com PyTest e Jest para garantir qualidade do código.  
-- Melhoria contínua em **Python** para explorar suas aplicações em Inteligência Artificial (machine learning, NLP).
+TypeScript com tipagem estrita e patterns.
 
----
+Arquitetura de microsserviços e patterns de escalabilidade.
 
-## 📫 Como Entrar em Contato
+CI/CD com GitHub Actions e automação de builds/containers.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-castro-9a9745209/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" 
-      alt="LinkedIn" 
-    />
-  </a>
-  <a href="mailto:gabriel.castrogt10@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" 
-      alt="E-mail" 
-    />
-  </a>
-  <a href="https://github.com/DevBielCastro" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" 
-      alt="GitHub" 
-    />
-  </a>
-</div>
+TDD com Jest (JS/TS) e PyTest (Python).
 
----
+✅ Roadmap até dezembro
 
-> Obrigado pela visita ao meu perfil!  
-> Se quiser acompanhar minhas atualizações de código e projetos em tempo real, deixe uma ⭐ no meu repositório ou me siga no GitHub.  
+Padronizar e enriquecer READMEs dos 3 repositórios principais (demos, screenshots, instruções).
+
+Implementar GitHub Actions: lint, testes mínimos e build Docker.
+
+Criar projeto demonstrando CI/CD completo (API CRUD + deploy em Cloud Run).
+
+Atualizar currículo e aplicar diariamente para vagas de estágio.
+
+📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/gabriel-castro-9a9745209/
+
+GitHub: https://github.com/DevBielCastro
+
+E-mail: gabriel.castrogt10@gmail.com
