@@ -1,74 +1,103 @@
-Gabriel Castro 👋
+# Gabriel Castro 👋
 
-Desenvolvedor Full-Stack em formação • Estudante de ADS • Foco em Back-end / DevOps / Front-end
+**Desenvolvedor Full-Stack com foco em Back-end & DevOps**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) — atualmente no P2 — com experiência prática em projetos Full-Stack. Busco meu primeiro estágio em desenvolvimento até dezembro (remoto/híbrido/presencial — João Pessoa/PB). Gosto de construir APIs limpas, automatizar deploys e entregar interfaces funcionais e responsivas.
+---
 
-🚀 Objetivo
+### 👨‍💻 Sobre Mim
 
-Conquistar um estágio na área de desenvolvimento (Back-end / Full-Stack / DevOps iniciante) onde eu possa aplicar e expandir conhecimentos em Python (Django), Node.js, Docker e práticas de CI/CD, contribuindo com código bem organizado e foco em resultados.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por tecnologia e soluções eficientes. Com experiência prática em projetos Full-Stack, meu foco principal é o desenvolvimento **Back-end** e a exploração do universo **DevOps**. Gosto de construir APIs limpas e escaláveis, automatizar processos de deploy e entregar sistemas funcionais.
 
-💡 Resumo técnico
+🚀 **Atualmente, busco meu primeiro estágio na área de desenvolvimento** (remoto, híbrido ou presencial em João Pessoa/PB), onde eu possa aplicar e expandir meus conhecimentos, contribuindo com código bem organizado e foco em resultados.
 
-Back-end: Python (Django), Node.js (Express), REST APIs, autenticação JWT, PostgreSQL, MongoDB.
+### 💡 Habilidades Técnicas
 
-Front-end: React, Next.js, TypeScript, HTML5, CSS3, Tailwind CSS.
+| Categoria | Tecnologias |
+|-----------|--------------------------------------------------------------------------------|
+| **Back-end** | Python (Django), Node.js (Express), APIs REST, Autenticação (JWT) |
+| **Front-end** | React, Next.js, TypeScript, HTML5, CSS3, Tailwind CSS |
+| **Bancos de Dados** | PostgreSQL, MongoDB |
+| **DevOps & Infra** | Docker, Docker Compose, CI/CD com GitHub Actions, Google Cloud Run |
+| **Ferramentas** | Git, GitHub, Linux, Visual Studio Code |
 
-DevOps / Infra: Docker, GitHub Actions / CI, deploys básicos em Cloud Run / GCP, Docker Compose.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgres,mongodb,react,ts,tailwind,docker,git,github,linux,gcp&perline=8&theme=dark" alt="Ícones de Tecnologias" />
+</p>
 
-Boas práticas: Código limpo, organização por controllers/services, documentação mínima, testes iniciais.
+---
 
-🔧 Tecnologias & Ferramentas
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgres,mongodb,react,ts,html,css,tailwind,docker,git,github,linux&perline=8&theme=dark" alt="Tech icons" /> </p>
-📁 Projetos em destaque
-Sistema Restaurante — Repositório
+### 📁 Projetos em Destaque
 
-Sistema completo para gestão de restaurantes: cardápio, categorias, produtos, pedidos e autenticação.
-Stack: Node.js, Express, PostgreSQL, Next.js, Tailwind, TypeScript, Docker.
-Destaques: API organizada em camadas (routes/controllers/services), painel administrativo e integração front↔back.
+<details>
+<summary><strong>Sistema de Gestão para Restaurantes</strong></summary>
 
-Gabriel Mário ADV — Repositório
+> Sistema completo para gestão de restaurantes, incluindo cardápio digital, gerenciamento de produtos, categorias, pedidos e autenticação de usuários.
 
-Site institucional com painel administrativo para escritório de advocacia.
-Stack: Node.js, Express, PostgreSQL, Tailwind, JWT.
-Destaques: Gestão de artigos, autenticação, deploy e estrutura de backend modular.
+- **Stack:** Node.js, Express, PostgreSQL, Next.js, Tailwind CSS, TypeScript, Docker.
+- **Destaques:** API organizada em camadas (routes/controllers/services), painel administrativo funcional e integração completa entre front-end e back-end.
+- **[🔗 Repositório no GitHub](https://github.com/DevBielCastro/SEU-REPOSITORIO-AQUI)**
 
-Buscador de CEP (Django) — Repositório
+</details>
 
-Pequena aplicação para busca de endereços via API externa.
-Stack: Django, Docker.
-Destaques: Integração com API externa, tratamento de erros e ambiente containerizado.
+<details>
+<summary><strong>Site Institucional para Advocacia (com Painel Admin)</strong></summary>
 
-Ver todos os repositórios: https://github.com/DevBielCastro
+> Landing page e sistema de gerenciamento de conteúdo para um escritório de advocacia, permitindo a publicação e gestão de artigos.
 
-📊 Estatísticas (atual)
-<div align="center"> <img height="140" src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub stats" /> <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" alt="Top languages" /> </div>
-🌱 Atualmente estudando
+- **Stack:** Node.js, Express, PostgreSQL, JWT, EJS, Tailwind CSS.
+- **Destaques:** Autenticação segura com JWT, painel administrativo para gestão de posts e estrutura de back-end modular e organizada.
+- **[🔗 Repositório no GitHub](https://github.com/DevBielCastro/SEU-REPOSITORIO-AQUI)**
 
-React avançado (componentização, performance, hooks personalizados).
+</details>
 
-TypeScript com tipagem estrita e patterns.
+<details>
+<summary><strong>Buscador de CEP com Django</strong></summary>
 
-Arquitetura de microsserviços e patterns de escalabilidade.
+> Aplicação simples que consome uma API externa (ViaCEP) para buscar e exibir informações de endereço a partir de um CEP.
 
-CI/CD com GitHub Actions e automação de builds/containers.
+- **Stack:** Python, Django, Docker.
+- **Destaques:** Integração com API externa, tratamento de erros e ambiente totalmente containerizado com Docker.
+- **[🔗 Repositório no GitHub](https://github.com/DevBielCastro/SEU-REPOSITORIO-AQUI)**
 
-TDD com Jest (JS/TS) e PyTest (Python).
+</details>
 
-✅ Roadmap até dezembro
+➡️ **[Ver todos os meus repositórios](https://github.com/DevBielCastro?tab=repositories)**
 
-Padronizar e enriquecer READMEs dos 3 repositórios principais (demos, screenshots, instruções).
+---
 
-Implementar GitHub Actions: lint, testes mínimos e build Docker.
+### 🌱 Aprendizado Contínuo & Próximos Passos
 
-Criar projeto demonstrando CI/CD completo (API CRUD + deploy em Cloud Run).
+-   **Atualmente estudando:**
+    -   React avançado (performance, hooks customizados, componentização).
+    -   TypeScript com tipagem estrita e Design Patterns.
+    -   Arquitetura de microsserviços e padrões de escalabilidade.
+    -   CI/CD com GitHub Actions para automação de builds e deploys.
+    -   TDD com Jest (JS/TS) e PyTest (Python).
 
-Atualizar currículo e aplicar diariamente para vagas de estágio.
+-   **🎯 Roadmap (até Dez/2025):**
+    -   [ ] Enriquecer os READMEs dos projetos principais (demos, screenshots, instruções).
+    -   [ ] Implementar pipeline de CI/CD (lint, testes, build) nos projetos.
+    -   [ ] Desenvolver um novo projeto ponta a ponta demonstrando CI/CD completo.
+    -   [ ] Conquistar uma vaga de estágio em desenvolvimento.
 
-📫 Contato
+---
 
-LinkedIn: https://www.linkedin.com/in/gabriel-castro-9a9745209/
+### 📊 Minhas Estatísticas no GitHub
 
-GitHub: https://github.com/DevBielCastro
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800" alt="Estatísticas do GitHub" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" alt="Linguagens mais usadas" />
+</div>
 
-E-mail: gabriel.castrogt10@gmail.com
+---
+
+### 📫 Como me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-castro-9a9745209/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gabriel.castrogt10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
