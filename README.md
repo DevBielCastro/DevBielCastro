@@ -1,12 +1,12 @@
 # Gabriel Castro 👋
 
-**Desenvolvedor Full-Stack com foco em Back-end & DevOps**
+**Desenvolvedor Full-Stack | Back-end | Front-end | DevOps**
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por tecnologia e soluções eficientes. Com experiência prática em projetos Full-Stack, meu foco principal é o desenvolvimento **Back-end** e a exploração do universo **DevOps**. Gosto de construir APIs limpas e escaláveis, automatizar processos de deploy e entregar sistemas funcionais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por tecnologia e soluções eficientes. Com experiência prática em projetos Full-Stack, meu foco se divide entre o desenvolvimento **Back-end**, a construção de interfaces ricas no **Front-end** e a exploração do universo **DevOps**. Gosto de construir APIs limpas e escaláveis, automatizar processos de deploy e entregar sistemas funcionais ponta a ponta.
 
 🚀 **Atualmente, busco meu primeiro estágio na área de desenvolvimento** (remoto, híbrido ou presencial em João Pessoa/PB), onde eu possa aplicar e expandir meus conhecimentos, contribuindo com código bem organizado e foco em resultados.
 
@@ -16,12 +16,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
 |-----------|--------------------------------------------------------------------------------|
 | **Back-end** | Python (Django), Node.js (Express), APIs REST, Autenticação (JWT) |
 | **Front-end** | React, Next.js, TypeScript, HTML5, CSS3, Tailwind CSS |
-| **Bancos de Dados** | PostgreSQL, MongoDB |
-| **DevOps & Infra** | Docker, Docker Compose, CI/CD com GitHub Actions, Google Cloud Run |
+| **Bancos de Dados**| PostgreSQL, MongoDB |
+| **DevOps & Infra**| Docker, Docker Compose, CI/CD (GitHub Actions), Deploy (Vercel, GCP, AWS) |
 | **Ferramentas** | Git, GitHub, Linux, Visual Studio Code |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgres,mongodb,react,ts,tailwind,docker,git,github,linux,gcp&perline=8&theme=dark" alt="Ícones de Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgres,mongodb,react,ts,tailwind,docker,git,github,linux,gcp,vercel,aws&perline=8&theme=dark" alt="Ícones de Tecnologias" />
 </p>
 
 ---
