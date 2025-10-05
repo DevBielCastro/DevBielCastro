@@ -78,7 +78,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
     -   [ ] Enriquecer os READMEs dos projetos principais (demos, screenshots, instruções).
     -   [ ] Implementar pipeline de CI/CD (lint, testes, build) nos projetos.
     -   [ ] Desenvolver um novo projeto ponta a ponta demonstrando CI/CD completo.
-    -   [ ] Conquistar uma vaga de estágio em desenvolvimento.
+    -   [ ] Conquistar uma vaga em desenvolvimento Fullstack.
 
 ---
 
