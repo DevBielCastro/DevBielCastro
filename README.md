@@ -88,7 +88,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=radical&include_all_commits=true&rank_icon=percentile&custom_title=Estatísticas%20do%20GitHub&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=radical&rank_icon=percentile&custom_title=Estatísticas%20do%20GitHub&cache_seconds=1800"
     alt="Estatísticas do GitHub de Gabriel Castro"
   />
   <img
