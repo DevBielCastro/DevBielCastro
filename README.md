@@ -88,12 +88,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=Estatísticas%20do%20GitHub&hide_border=false&cache_seconds=30"
+    src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=radical&include_all_commits=true&rank_icon=percentile&custom_title=Estatísticas%20do%20GitHub&cache_seconds=1800"
     alt="Estatísticas do GitHub de Gabriel Castro"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&langs_count=8&theme=radical&hide_border=false&cache_seconds=30&custom_title=Linguagens%20Mais%20Usadas"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&langs_count=8&theme=radical&cache_seconds=1800&custom_title=Linguagens%20Mais%20Usadas"
     alt="Linguagens mais usadas por Gabriel Castro"
   />
 </div>
