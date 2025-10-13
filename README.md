@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Gabriel Castro</h1>
-  <p><strong>Desenvolvedor Full-Stack | Back-end com Node.js & Front-end com React/Next.js</strong></p>
+  <p><strong>Desenvolvedor Full-Stack em formação | Node.js, React, TypeScript & Docker</strong></p>
 </div>
 
 <p align="center">
@@ -15,34 +15,28 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevBielCastro&style=flat-square&color=blueviolet" alt="Contador de Visitas"/>
-</div>
-
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Olá, eu sou o Gabriel! 👋
+Olá! 👋 Sou Gabriel Castro, estudante de Análise e Desenvolvimento de Sistemas com foco em aplicações web. Tenho experiência com **Node.js/Express** no back-end e **React/Next.js** no front-end. Atualmente, desenvolvo projetos pessoais utilizando TypeScript, PostgreSQL e Docker para criar soluções completas e escaláveis.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por criar soluções tecnológicas eficientes. Minha jornada no mundo do desenvolvimento é movida pela curiosidade, com foco em **Back-end**, na construção de interfaces ricas no **Front-end** e na exploração do universo **DevOps**. Gosto de construir APIs limpas e escaláveis, automatizar processos de deploy e entregar sistemas funcionais ponta a ponta.
-
-🚀 **Atualmente, busco meu primeiro estágio na área de desenvolvimento** (remoto, híbrido ou presencial em João Pessoa/PB), onde eu possa aplicar e expandir meus conhecimentos, contribuindo com código de qualidade e foco em resultados.
+🚀 **Busco uma oportunidade de estágio em desenvolvimento** para aplicar minhas habilidades em projetos reais e aprender com equipes ágeis.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Minha Tech Stack
 
-| Categoria | Tecnologias |
-|-----------|--------------------------------------------------------------------------------|
-| **Back-end** | Python (Django), Node.js (Express), APIs REST, Autenticação (JWT) |
-| **Front-end** | React, Next.js, TypeScript, HTML5, CSS3, Tailwind CSS |
-| **Bancos de Dados**| PostgreSQL, MongoDB |
-| **DevOps & Infra**| Docker, Docker Compose, CI/CD (GitHub Actions), Deploy (Vercel, GCP, AWS) |
-| **Ferramentas** | Git, GitHub, Linux, Visual Studio Code |
+| Categoria         | Tecnologias                                                                    |
+|-------------------|--------------------------------------------------------------------------------|
+| **Back-end** | Node.js, Express, APIs REST, JWT                                               |
+| **Front-end** | React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3                          |
+| **Bancos de Dados**| PostgreSQL, MySQL, MongoDB                                                     |
+| **DevOps & Infra**| Docker, Git, GitHub, CI/CD (GitHub Actions), Vercel                            |
+| **Metodologias** | Agile (Scrum/Kanban), Clean Code, S.O.L.I.D.                                   |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgres,mongodb,react,ts,tailwind,docker,git,github,linux,gcp,vercel,aws&perline=8&theme=dark" alt="Ícones de Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,ts,tailwind,postgres,mysql,mongodb,docker,git,github,vercel&perline=7&theme=dark" alt="Ícones de Tecnologias" />
 </p>
 
 ---
@@ -50,32 +44,32 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por
 ### 🚀 Projetos em Destaque
 
 <details>
-<summary><strong>📦 Sistema de Gestão para Restaurantes</strong></summary>
+<summary><strong>📦 Plataforma de Gestão para Restaurantes (Full-Stack)</strong></summary>
 
-> Sistema completo para gestão de restaurantes, incluindo cardápio digital, gerenciamento de produtos, categorias, pedidos e autenticação de usuários.
-- **Stack:** Node.js, Express, PostgreSQL, Next.js, Tailwind CSS, TypeScript, Docker.
-- **Destaques:** API organizada em camadas (routes/controllers/services), painel administrativo funcional e integração completa entre front-end e back-end.
-- **[🔗 Repositório no GitHub](https://github.com/DevBielCastro/Sistema_Restaurante)**
-
-</details>
-
-<details>
-<summary><strong>🌐 Site Institucional para NeuroStack</strong></summary>
-
-> Website institucional para a startup de desenvolvimento NeuroStack, apresentando portfólio, serviços e informações de contato.
-- **Stack:** Next.js, React, TypeScript, Tailwind CSS.
-- **Destaques:** Design moderno e responsivo, focado em performance e na apresentação clara dos projetos da empresa.
-- **[🔗 Repositório no GitHub](https://github.com/DevBielCastro/neurostack-site-pessoal)**
+> [cite_start]API REST para uma plataforma de gestão, cobrindo funcionalidades de cardápio digital, gerenciamento de pedidos e autenticação[cite: 34].
+> [cite_start]- **Tecnologias:** Node.js, Express, PostgreSQL[cite: 35].
+> - **Destaques:** API organizada em camadas, autenticação segura com JWT e estrutura modular.
+> - **[🔗 Repositório da API (Back-end)](https://github.com/DevBielCastro/Sistema_Restaurante)**
 
 </details>
 
 <details>
-<summary><strong>⚖️ Site Institucional para Advocacia (com Painel Admin)</strong></summary>
+<summary><strong>🌐 Site Institucional NeuroStack (Front-end)</strong></summary>
 
-> Landing page e sistema de gerenciamento de conteúdo para um escritório de advocacia, permitindo a publicação e gestão de artigos.
-- **Stack:** Node.js, Express, PostgreSQL, JWT, EJS, Tailwind CSS.
-- **Destaques:** Autenticação segura com JWT, painel administrativo para gestão de posts e estrutura de back-end modular.
-- **[🔗 Repositório no GitHub](https://github.com/DevBielCastro/projetositegabrielmarioadv)**
+> [cite_start]Website corporativo para a NeuroStack, focado em performance e design responsivo para apresentar o portfólio de serviços[cite: 31].
+> [cite_start]- **Tecnologias:** Next.js, TypeScript, Tailwind CSS[cite: 32].
+> - **Destaques:** Foco em performance, design moderno e otimização para captação de clientes.
+> - **[🔗 Repositório no GitHub](https://github.com/DevBielCastro/neurostack-site-pessoal)**
+
+</details>
+
+<details>
+<summary><strong>⚖️ Solução Web para Advocacia (Full-Stack)</strong></summary>
+
+> [cite_start]Portal completo com painel de gerenciamento que permite ao cliente total autonomia para publicar e gerenciar artigos[cite: 28].
+> [cite_start]- **Tecnologias:** Node.js, EJS, JWT[cite: 29].
+> - **Destaques:** Painel administrativo funcional para gestão de conteúdo e autenticação de usuário.
+> - **[🔗 Repositório no GitHub](https://github.com/DevBielCastro/projetositegabrielmarioadv)**
 
 </details>
 
