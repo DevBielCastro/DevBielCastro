@@ -31,47 +31,27 @@ Atualmente, estou focado em Node.js para o back-end e React/Next.js com TypeScri
 
 💡 Comprometido com a melhoria contínua, boas práticas como Clean Code e S.O.L.I.D., e aprendizado em equipes ágeis.
 
+🎯 Objetivos
+
+💼 Em busca da minha primeira oportunidade de estágio em desenvolvimento para aplicar minhas habilidades em projetos reais.
+
+🚀 Experiência com Node.js, React, TypeScript e Docker.
+
+💡 Comprometido com a melhoria contínua, boas práticas como Clean Code e S.O.L.I.D., e aprendizado em equipes ágeis.
+
 🛠️ Minha Tech Stack
 
-Categoria
-
-Tecnologias & Ferramentas
-
-👩‍💻 Backend
-
-Node.js, Express, TypeScript, APIs REST, JWT
-
-👩‍🎨 Frontend
-
-React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3
-
-🗃️ Banco de Dados
-
-PostgreSQL, MySQL, MongoDB
-
-☁️ DevOps & Infra
-
-Docker, Git, CI/CD (GitHub Actions), Vercel
-
-🔧 IDEs
-
-VS Code, IntelliJ IDEA, WebStorm
-
-🦾 Testes Manuais e de API
-
-Postman
-
-📊 Gerenciamento de Projetos
-
-Trello, Kanban
-
-:octocat: Versionamento de Código
-
-Git, GitHub
-
-📋 Outros
-
-Pacote Office (Word, Excel, PowerPoint)
+| Categoria | Tecnologias & Ferramentas |
+|---|---|
+| 👩‍💻 Backend | Node.js, Express, TypeScript, APIs REST, JWT |
+| 👩‍🎨 Frontend | React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3 |
+| 🗃️ Banco de Dados | PostgreSQL, MySQL, MongoDB |
+| ☁️ DevOps & Infra | Docker, Git, CI/CD (GitHub Actions), Vercel |
+| 🔧 IDEs | VS Code, IntelliJ IDEA, WebStorm |
+| 🦾 Testes Manuais e de API | Postman |
+| 📊 Gerenciamento de Projetos | Trello, Kanban |
+| :octocat: Versionamento de Código | Git, GitHub |
+| 📋 Outros | Pacote Office (Word, Excel, PowerPoint) |
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,ts,tailwind,postgres,mysql,mongodb,docker,git,github,vercel&perline=7&theme=dark" alt="Ícones de Tecnologias" />
