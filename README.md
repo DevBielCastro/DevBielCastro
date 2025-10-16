@@ -3,10 +3,6 @@
   <p><strong>Desenvolvedor Full-Stack em formação | Node.js, React, TypeScript & Docker</strong></p>
 </div>
 
-<div align="center">
-📫 Como chegar até mim:
-</div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-castro-9a9745209/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
