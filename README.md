@@ -19,75 +19,132 @@
 
 ### 👨‍💻 Sobre Mim
 
-Olá! 👋 Sou Gabriel Castro, estudante de Análise e Desenvolvimento de Sistemas com foco em aplicações web. Tenho experiência com **Node.js/Express** no back-end e **React/Next.js** no front-end. Atualmente, desenvolvo projetos pessoais utilizando TypeScript, PostgreSQL e Docker para criar soluções completas e escaláveis.
+Olá! 👋 Sou Gabriel Castro, estudante de Análise e Desenvolvimento de Sistemas com foco no desenvolvimento de aplicações web completas e escaláveis. Tenho paixão por tecnologia e busco constantemente aprimorar minhas habilidades com projetos práticos.
 
-🚀 **Busco uma oportunidade de estágio em desenvolvimento** para aplicar minhas habilidades em projetos reais e aprender com equipes ágeis.
+Atualmente, estou focado em Node.js para o back-end e React/Next.js com TypeScript para o front-end, utilizando Docker para criar ambientes de desenvolvimento consistentes.
 
----
+🎯 Objetivos
 
-### 🛠️ Minha Tech Stack
+💼 Em busca da minha primeira oportunidade de estágio em desenvolvimento para aplicar minhas habilidades em projetos reais.
 
-| Categoria         | Tecnologias                                                                    |
-|-------------------|--------------------------------------------------------------------------------|
-| **Back-end** | Node.js, Express, APIs REST, JWT                                               |
-| **Front-end** | React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3                          |
-| **Bancos de Dados**| PostgreSQL, MySQL, MongoDB                                                     |
-| **DevOps & Infra**| Docker, Git, GitHub, CI/CD (GitHub Actions), Vercel                            |
-| **Metodologias** | Agile (Scrum/Kanban), Clean Code, S.O.L.I.D.                                   |
+🚀 Experiência com Node.js, React, TypeScript e Docker.
+
+💡 Comprometido com a melhoria contínua, boas práticas como Clean Code e S.O.L.I.D., e aprendizado em equipes ágeis.
+
+🛠️ Minha Tech Stack
+
+Categoria
+
+Tecnologias & Ferramentas
+
+👩‍💻 Backend
+
+Node.js, Express, TypeScript, APIs REST, JWT
+
+👩‍🎨 Frontend
+
+React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3
+
+🗃️ Banco de Dados
+
+PostgreSQL, MySQL, MongoDB
+
+☁️ DevOps & Infra
+
+Docker, Git, CI/CD (GitHub Actions), Vercel
+
+🔧 IDEs
+
+VS Code, IntelliJ IDEA, WebStorm
+
+🦾 Testes Manuais e de API
+
+Postman
+
+📊 Gerenciamento de Projetos
+
+Trello, Kanban
+
+:octocat: Versionamento de Código
+
+Git, GitHub
+
+📋 Outros
+
+Pacote Office (Word, Excel, PowerPoint)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,ts,tailwind,postgres,mysql,mongodb,docker,git,github,vercel&perline=7&theme=dark" alt="Ícones de Tecnologias" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,ts,tailwind,postgres,mysql,mongodb,docker,git,github,vercel&perline=7&theme=dark" alt="Ícones de Tecnologias" />
 </p>
 
----
+📫 Como chegar até mim:
 
-### 🚀 Projetos em Destaque
+<p align="left">
+<a href="https://www.linkedin.com/in/gabriel-castro-9a9745209/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-6567a5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="mailto:gabriel.castrogt10@gmail.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-6567a5%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail"/>
+</a>
+<a href="https://github.com/DevBielCastro" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-6567a5%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
+</a>
+</p>
+
+🚀 Projetos em Destaque
 
 <details>
 <summary><strong>📦 Plataforma de Gestão para Restaurantes (Full-Stack)</strong></summary>
 
-> [cite_start]API REST para uma plataforma de gestão, cobrindo funcionalidades de cardápio digital, gerenciamento de pedidos e autenticação[cite: 34].
-> [cite_start]- **Tecnologias:** Node.js, Express, PostgreSQL[cite: 35].
-> - **Destaques:** API organizada em camadas, autenticação segura com JWT e estrutura modular.
-> - **[🔗 Repositório da API (Back-end)](https://github.com/DevBielCastro/Sistema_Restaurante)**
+API REST para uma plataforma de gestão, cobrindo funcionalidades de cardápio digital, gerenciamento de pedidos e autenticação.
+
+Tecnologias: Node.js, Express, PostgreSQL.
+
+Destaques: API organizada em camadas, autenticação segura com JWT e estrutura modular.
+
+🔗 Repositório da API (Back-end)
 
 </details>
 
 <details>
 <summary><strong>🌐 Site Institucional NeuroStack (Front-end)</strong></summary>
 
-> [cite_start]Website corporativo para a NeuroStack, focado em performance e design responsivo para apresentar o portfólio de serviços[cite: 31].
-> [cite_start]- **Tecnologias:** Next.js, TypeScript, Tailwind CSS[cite: 32].
-> - **Destaques:** Foco em performance, design moderno e otimização para captação de clientes.
-> - **[🔗 Repositório no GitHub](https://github.com/DevBielCastro/neurostack-site-pessoal)**
+Website corporativo para a NeuroStack, focado em performance e design responsivo para apresentar o portfólio de serviços.
+
+Tecnologias: Next.js, TypeScript, Tailwind CSS.
+
+Destaques: Foco em performance, design moderno e otimização para captação de clientes.
+
+🔗 Repositório no GitHub
 
 </details>
 
 <details>
 <summary><strong>⚖️ Solução Web para Advocacia (Full-Stack)</strong></summary>
 
-> [cite_start]Portal completo com painel de gerenciamento que permite ao cliente total autonomia para publicar e gerenciar artigos[cite: 28].
-> [cite_start]- **Tecnologias:** Node.js, EJS, JWT[cite: 29].
-> - **Destaques:** Painel administrativo funcional para gestão de conteúdo e autenticação de usuário.
-> - **[🔗 Repositório no GitHub](https://github.com/DevBielCastro/projetositegabrielmarioadv)**
+Portal completo com painel de gerenciamento que permite ao cliente total autonomia para publicar e gerenciar artigos.
+
+Tecnologias: Node.js, EJS, JWT.
+
+Destaques: Painel administrativo funcional para gestão de conteúdo e autenticação de usuário.
+
+🔗 Repositório no GitHub
 
 </details>
 
-➡️ **[Ver todos os meus repositórios](https://github.com/DevBielCastro?tab=repositories)**
+➡️ Ver todos os meus repositórios
 
----
-
-### 📊 Minhas Estatísticas no GitHub
+📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=radical&rank_icon=percentile&custom_title=Estatísticas%20do%20GitHub&cache_seconds=1800"
-    alt="Estatísticas do GitHub de Gabriel Castro"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&langs_count=8&theme=radical&cache_seconds=1800&custom_title=Linguagens%20Mais%20Usadas"
-    alt="Linguagens mais usadas por Gabriel Castro"
-  />
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=radical&rank_icon=percentile&custom_title=Estatísticas%20do%20GitHub&cache_seconds=1800"
+alt="Estatísticas do GitHub de Gabriel Castro"
+/>
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&langs_count=8&theme=radical&cache_seconds=1800&custom_title=Linguagens%20Mais%20Usadas"
+alt="Linguagens mais usadas por Gabriel Castro"
+/>
 </div>
