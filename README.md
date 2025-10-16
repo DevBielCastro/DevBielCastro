@@ -25,15 +25,7 @@ Atualmente, estou focado em Node.js para o back-end e React/Next.js com TypeScri
 
 🎯 Objetivos
 
-💼 Em busca da minha primeira oportunidade de estágio em desenvolvimento para aplicar minhas habilidades em projetos reais.
-
-🚀 Experiência com Node.js, React, TypeScript e Docker.
-
-💡 Comprometido com a melhoria contínua, boas práticas como Clean Code e S.O.L.I.D., e aprendizado em equipes ágeis.
-
-🎯 Objetivos
-
-💼 Em busca da minha primeira oportunidade de estágio em desenvolvimento para aplicar minhas habilidades em projetos reais.
+💼 Em busca da minha primeira oportunidade em desenvolvimento para aplicar minhas habilidades e me desenvolver mais.
 
 🚀 Experiência com Node.js, React, TypeScript e Docker.
 
