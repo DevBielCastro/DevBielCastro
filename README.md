@@ -3,6 +3,8 @@
   <p><strong>Desenvolvedor Full-Stack em formação | Node.js, React, TypeScript & Docker</strong></p>
 </div>
 
+📫 Como chegar até mim:
+
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-castro-9a9745209/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -55,20 +57,6 @@ Atualmente, estou focado em Node.js para o back-end e React/Next.js com TypeScri
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,ts,tailwind,postgres,mysql,mongodb,docker,git,github,vercel&perline=7&theme=dark" alt="Ícones de Tecnologias" />
-</p>
-
-📫 Como chegar até mim:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/gabriel-castro-9a9745209/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-6567a5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="mailto:gabriel.castrogt10@gmail.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-6567a5%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail"/>
-</a>
-<a href="https://github.com/DevBielCastro" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-6567a5%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
-</a>
 </p>
 
 🚀 Projetos em Destaque
