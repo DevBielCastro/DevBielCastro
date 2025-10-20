@@ -40,7 +40,7 @@ Atualmente, estou focado em Node.js para o back-end e React/Next.js com TypeScri
 | 🗃️ Banco de Dados | PostgreSQL, MySQL, MongoDB |
 | ☁️ DevOps & Infra | Docker, Git, CI/CD (GitHub Actions), Vercel |
 | 🔧 IDEs | VS Code, IntelliJ IDEA, WebStorm |
-| 🦾 Testes Manuais e de API | Postman |
+| 🦾 Testes Manuais e de API | Postman, Insonia |
 | 📊 Gerenciamento de Projetos | Trello, Kanban |
 | :octocat: Versionamento de Código | Git, GitHub |
 | 📋 Outros | Pacote Office (Word, Excel, PowerPoint) |
