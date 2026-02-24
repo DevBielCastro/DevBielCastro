@@ -121,10 +121,7 @@ Um app focado em **CRUD + validação + estados + testes** (perfeito pra estági
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=radical&rank_icon=percentile&custom_title=Estatísticas%20do%20GitHub&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&langs_count=8&theme=radical&cache_seconds=1800&custom_title=Linguagens%20Mais%20Usadas" />
-</div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevBielCastro&show_icons=true&theme=radical&rank_icon=percentile&custom_title=Estatísticas%20do%20GitHub&cache_seconds=1800" alt="Estatísticas do GitHub de Gabriel Castro" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBielCastro&layout=compact&langs_count=8&theme=radical&cache_seconds=1800&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens mais usadas por Gabriel Castro" /> </div>
 
 ---
 
